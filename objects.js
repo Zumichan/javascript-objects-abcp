@@ -1,3 +1,3 @@
 var playlist = {
-  'Slowdive':
+  'Slowdive':'My Bloody Valentine'
 }
